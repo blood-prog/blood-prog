@@ -10,7 +10,7 @@ Hi, I'm Ibrahim Benabida 👋<br>Data Science Student & AI-Assisted Vibe Coder<b
 
 # 👨‍💻 Creations
 
-### 🌌 [Ibrahim Benabida - Portfolio](https://ibrahim.benabida.vercel.app)
+### 🌌 [Ibrahim Benabida - Portfolio](https://ibrahim-benabida.vercel.app/)
 > **Ibrahim Benabida - Portfolio** is a vibe-coded personal portfolio featuring 3D wireframe geometry, WebGL distortion effects, and a premium dark mode design with buttery smooth hardware-accelerated scrolling.
 
 ### 📱 [Smart Residency](https://smart-residence-two.vercel.app/)
